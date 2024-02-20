@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    margin: 100px;
+}
+h2 {
+    margin-bottom : 10px;
+    color:green;
+}
+h4 {
+    color:black;
+}
+h5 {
+    color:black;
+    text-align: left;
+}
+ 
+p {
+    color:black;
+    font-size: 20px;
+    text-align: left;
+}
+
+input {
+    padding: 5px;
+    margin-right: 7px;
+    width: 25%;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;   
+}
+button:hover {
+    background-color: #008CBA; 
+    color: white; 
+  }
+
+label {
+    color:darkslategrey
+}
+#result {
+    color:darkslategrey
+}
